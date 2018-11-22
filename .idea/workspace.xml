@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9363518-186d-45c3-a466-95448bd4fc5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layout/_partial/article.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/layout/_partial/article.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/main.0cf68a.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/main.0cf68a.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +24,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ejs" value="19" />
+          <entry key="css" value="1" />
+          <entry key="ejs" value="39" />
           <entry key="gif" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="jpg" value="4" />
-          <entry key="js" value="5" />
+          <entry key="js" value="6" />
           <entry key="png" value="2" />
           <entry key="scss" value="3" />
           <entry key="ts" value="2" />
@@ -36,9 +38,10 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="EJS" value="19" />
+          <entry key="CSS" value="1" />
+          <entry key="EJS" value="39" />
           <entry key="Image" value="7" />
-          <entry key="JavaScript" value="5" />
+          <entry key="JavaScript" value="6" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="3" />
           <entry key="TypeScript" value="2" />
@@ -47,13 +50,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="ejs" value="25" />
+          <entry key="css" value="2" />
+          <entry key="ejs" value="27" />
           <entry key="yml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="EJS" value="25" />
+          <entry key="CSS" value="2" />
+          <entry key="EJS" value="27" />
           <entry key="YAML" value="25" />
         </counts>
       </usages-collector>
@@ -61,11 +66,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/_partial/post/share.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/_partial/post/tag.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/_partial/post/title.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/_partial/post/changyan.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/_partial/post/category.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/_partial/post/duoshuo.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/tag.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/post.ejs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layout/_partial/article.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+            <state relative-caret-position="2400">
+              <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/main.0cf68a.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1440">
+              <caret line="4221" column="1" lean-forward="true" selection-start-line="4221" selection-start-column="1" selection-end-line="4221" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -81,6 +138,8 @@
       <find>分享</find>
       <find>.js-wx-box</find>
       <find>ready</find>
+      <find>toc</find>
+      <find>toc-article</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,6 +152,8 @@
         <option value="$PROJECT_DIR$/layout/_partial/after-footer.ejs" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/layout/_partial/article.ejs" />
+        <option value="$PROJECT_DIR$/source/main.0cf68a.css" />
       </list>
     </option>
   </component>
@@ -110,8 +171,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-36" />
-    <option name="y" value="33" />
+    <option name="x" value="228" />
+    <option name="y" value="323" />
     <option name="width" value="1440" />
     <option name="height" value="826" />
   </component>
@@ -206,15 +267,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542869611643</updated>
-      <workItem from="1542869614190" duration="4955000" />
+      <workItem from="1542869614190" duration="6299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4955000" />
+    <option name="totallyTimeSpent" value="6299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-36" y="33" width="1440" height="826" extended-state="0" />
+    <frame x="228" y="323" width="1440" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
@@ -277,9 +338,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layout/_partial/aside.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/img/scrollbar_arrow.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -295,9 +353,6 @@
     <entry file="file://$PROJECT_DIR$/source-src/css.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source-src/script.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/layout/_partial/footer.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -310,21 +365,6 @@
         <state relative-caret-position="255">
           <caret line="17" column="53" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="53" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/_partial/left-col.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/_partial/header.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/_partial/head.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source-src/css/mobile.scss">
@@ -344,9 +384,6 @@
     <entry file="file://$PROJECT_DIR$/layout/index.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/layout/tag.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -364,13 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="520" column="31" lean-forward="true" selection-start-line="520" selection-start-column="31" selection-end-line="520" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/_partial/script.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2113" selection-start-line="1" selection-start-column="2113" selection-end-line="1" selection-end-column="2113" />
         </state>
       </provider>
     </entry>
@@ -412,6 +442,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source-src/script.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-src/js/fix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding>
+            <element signature="e#43#50#0" expanded="true" />
+            <element signature="e#48#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/aside.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="55" column="3" selection-start-line="55" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/baidu-analytics.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/head.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/header.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/left-col.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/mobile-nav.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/script.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2113" selection-start-line="1" selection-start-column="2113" selection-end-line="1" selection-end-column="2113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/toc.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/tools.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/viewer.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layout/_partial/post/share.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -421,10 +526,35 @@
     <entry file="file://$PROJECT_DIR$/layout/_partial/post/title.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/layout/_partial/post/changyan.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/post/category.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/post/duoshuo.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/tag.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/post.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/article.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="739">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="2400">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/main.0cf68a.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="4221" column="1" lean-forward="true" selection-start-line="4221" selection-start-column="1" selection-end-line="4221" selection-end-column="1" />
         </state>
       </provider>
     </entry>
