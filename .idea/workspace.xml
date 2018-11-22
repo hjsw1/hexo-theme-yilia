@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9363518-186d-45c3-a466-95448bd4fc5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/layout/_partial/article.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/layout/_partial/article.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/main.0cf68a.css" beforeDir="false" afterPath="$PROJECT_DIR$/source/main.0cf68a.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -33,7 +33,7 @@
           <entry key="png" value="2" />
           <entry key="scss" value="3" />
           <entry key="ts" value="2" />
-          <entry key="yml" value="3" />
+          <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -45,7 +45,7 @@
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="3" />
           <entry key="TypeScript" value="2" />
-          <entry key="YAML" value="3" />
+          <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -66,11 +66,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/_partial/post/share.ejs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layout/_partial/post/tag.ejs">
           <provider selected="true" editor-type-id="text-editor" />
@@ -109,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layout/_partial/article.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2400">
-              <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+            <state relative-caret-position="226">
+              <caret line="143" column="26" lean-forward="true" selection-start-line="143" selection-start-column="26" selection-end-line="143" selection-end-column="26" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
@@ -121,8 +116,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/main.0cf68a.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="4221" column="1" lean-forward="true" selection-start-line="4221" selection-start-column="1" selection-end-line="4221" selection-end-column="1" />
+            <state relative-caret-position="130">
+              <caret line="345" column="4" selection-start-line="345" selection-start-column="2" selection-end-line="345" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="55" column="3" selection-start-line="55" selection-end-line="55" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -140,6 +144,7 @@
       <find>ready</find>
       <find>toc</find>
       <find>toc-article</find>
+      <find>新</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -170,9 +175,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="228" />
-    <option name="y" value="323" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="35" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="826" />
   </component>
@@ -198,30 +203,6 @@
               <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
               <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
-              <item name="source-src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
-              <item name="source-src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
-              <item name="source-src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
-              <item name="source-src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,15 +248,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542869611643</updated>
-      <workItem from="1542869614190" duration="6299000" />
+      <workItem from="1542869614190" duration="7110000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6299000" />
+    <option name="totallyTimeSpent" value="7110000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="323" width="1440" height="826" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="826" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
@@ -467,13 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="55" column="3" selection-start-line="55" selection-end-line="55" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layout/_partial/baidu-analytics.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -541,10 +515,17 @@
     <entry file="file://$PROJECT_DIR$/layout/post.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="55" column="3" selection-start-line="55" selection-end-line="55" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/layout/_partial/article.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2400">
-          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+        <state relative-caret-position="226">
+          <caret line="143" column="26" lean-forward="true" selection-start-line="143" selection-start-column="26" selection-end-line="143" selection-end-column="26" />
           <folding>
             <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
           </folding>
@@ -553,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/main.0cf68a.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="4221" column="1" lean-forward="true" selection-start-line="4221" selection-start-column="1" selection-end-line="4221" selection-end-column="1" />
+        <state relative-caret-position="130">
+          <caret line="345" column="4" selection-start-line="345" selection-start-column="2" selection-end-line="345" selection-end-column="4" />
         </state>
       </provider>
     </entry>
