@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d9363518-186d-45c3-a466-95448bd4fc5f" name="Default Changelist" comment="" />
+    <list default="true" id="d9363518-186d-45c3-a466-95448bd4fc5f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,106 +23,49 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ejs" value="15" />
+          <entry key="ejs" value="19" />
           <entry key="gif" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="jpg" value="2" />
+          <entry key="jpg" value="4" />
+          <entry key="js" value="5" />
           <entry key="png" value="2" />
-          <entry key="scss" value="2" />
-          <entry key="yml" value="1" />
+          <entry key="scss" value="3" />
+          <entry key="ts" value="2" />
+          <entry key="yml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="EJS" value="15" />
-          <entry key="Image" value="5" />
+          <entry key="EJS" value="19" />
+          <entry key="Image" value="7" />
+          <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="2" />
-          <entry key="YAML" value="1" />
+          <entry key="SCSS" value="3" />
+          <entry key="TypeScript" value="2" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="ejs" value="25" />
-          <entry key="yml" value="21" />
+          <entry key="yml" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="EJS" value="25" />
-          <entry key="YAML" value="21" />
+          <entry key="YAML" value="25" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source-src/css.ejs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source-src/script.ejs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/_partial/footer.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source-src/css/mobile.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="293" column="5" lean-forward="true" selection-start-line="293" selection-start-column="5" selection-end-line="293" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/category.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="22" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/index.ejs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layout/tag.ejs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/source/assets/img/alipay.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state relative-caret-position="739">
+              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
             </state>
           </provider>
         </entry>
@@ -133,6 +78,9 @@
       <find>footer</find>
       <find>alipay</find>
       <find>favicon</find>
+      <find>分享</find>
+      <find>.js-wx-box</find>
+      <find>ready</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,8 +91,8 @@
       <list>
         <option value="$PROJECT_DIR$/layout/_partial/footer.ejs" />
         <option value="$PROJECT_DIR$/layout/_partial/after-footer.ejs" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -162,8 +110,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="418" />
-    <option name="y" value="29" />
+    <option name="x" value="-36" />
+    <option name="y" value="33" />
     <option name="width" value="1440" />
     <option name="height" value="826" />
   </component>
@@ -183,25 +131,36 @@
             <path>
               <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
               <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
+              <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
               <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
-              <item name="source" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
               <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
               <item name="source-src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
+              <item name="source-src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
+              <item name="source-src" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hexo-theme-yilia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hexo-theme-yilia" type="462c0819:PsiDirectoryNode" />
+              <item name="source-src" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -218,8 +177,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source" />
       <recent name="$PROJECT_DIR$/source/assets/img" />
+      <recent name="$PROJECT_DIR$/source" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/source/img" />
@@ -247,15 +206,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542869611643</updated>
-      <workItem from="1542869614190" duration="3252000" />
+      <workItem from="1542869614190" duration="4955000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3252000" />
+    <option name="totallyTimeSpent" value="4955000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="139" y="23" width="1440" height="826" extended-state="0" />
+    <frame x="-36" y="33" width="1440" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="npm" side_tool="true" />
@@ -267,7 +226,7 @@
       <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32833788" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970026" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -321,9 +280,6 @@
     <entry file="file://$PROJECT_DIR$/layout/_partial/aside.ejs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/layout/_partial/post/tag.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/img/scrollbar_arrow.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -332,9 +288,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/img/default-skin.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layout/_partial/post/title.ejs">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source-src/css/tools.scss">
       <provider selected="true" editor-type-id="text-editor" />
@@ -401,15 +354,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/source/assets/img/wxpay.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/source/assets/img/alipay.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-src/css/core/_mixin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="520" column="31" lean-forward="true" selection-start-line="520" selection-start-column="31" selection-end-line="520" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/script.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="2113" selection-start-line="1" selection-start-column="2113" selection-end-line="1" selection-end-column="2113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15704" column="4" selection-start-line="15704" selection-start-column="4" selection-end-line="15704" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/main.0cf68a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19232" selection-start-column="19232" selection-end-column="19232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-src/js/Q.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20715">
+          <caret line="1386" column="31" selection-start-line="1386" selection-start-column="31" selection-end-line="1386" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source-src/js/share.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/post/share.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/post/tag.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout/_partial/post/title.ejs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="739">
+          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
